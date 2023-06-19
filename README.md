@@ -2,7 +2,9 @@ Latest List of disposable email domains - june 2023
 # Geçici temp-mail-domainleri- (latest-disposable-temp-email-domains-list-June-2023 ) listesi Haziran 2023
 Spam girişleri ve botları engellemek için geçici mail Temp Mail domainleri listesi 2023
 
----> Tüm githubu sizin için altını üstüne getirdim ve tüm domainleri tek bir büyük listede topladım.
+
+İnternet dünyasında spam ve botlar tarafından yapılan sahte girişler, web siteleri için büyük bir sorun haline gelmiştir. Ancak, endişelenmeyin! Size mükemmel bir çözüm sunmak için harekete geçtim. Haziran 2023'te yaptığım kapsamlı araştırmalar sonucunda, spam ve bot girişlerini engellemek için kullanabileceğiniz en büyük ve en güncel Temp Mail Domainleri Listesini derledim. Bu liste, tam 160 bin geçici mail sağlayıcısı domainini içermektedir!
+
 *tüm linkleri github ve diğer internet kaynaklarından toplanmış ve dublicate (veri tekrarı temizlenmiştir) - Haziran 2023
 
 # Tek Kullanımlık mail - geçici E-posta domainleri Listesi
