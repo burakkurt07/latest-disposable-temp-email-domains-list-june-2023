@@ -2,6 +2,7 @@
 Spam girişleri ve botları engellemek için geçici mail Temp Mail domainleri listesi 2023
 
 ---> Tüm githubu sizin için altını üstüne getirdim ve tüm domainleri tek bir büyük listede topladım.
+*tüm linkleri github ve diğer internet kaynaklarından toplanmış ve dublicate (veri tekrarı temizlenmiştir) - Haziran 2023
 
 # Tek Kullanımlık E-posta Etki Alanı Listesi
 
