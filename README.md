@@ -25,7 +25,8 @@ Katkılarınızı her zaman beklerim!
 Yönlendiriciler (anonaddy.com, icloud.com veya relay.firefox.com gibi) gayet iyi.
 
 
-## Yazar. Tüm githubu sizin için altını üstüne getiren ve tüm domainleri tek bir büyük listede toplayan
+## Konu Yazarı: (Tüm githubun altını üstüne getiren ve tüm temp mail geçici mail, domainlerini sizin için tek bir büyük listede toplayan o harika insan)
 
 - [@burakkurt07](https://www.github.com/burakkurt07)
 - 
+- Listede eksik görürseniz gönderin güncelleyelim sizin de adınız burada olsun!
