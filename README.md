@@ -1,11 +1,11 @@
-
-# Geçici temp-mail-domainleri- (latest-disposable-temp-mail-domains-list-June-2023 ) listesi Haziran 2023
+List of disposable email domains june 2023
+# Geçici temp-mail-domainleri- (latest-disposable-temp-email-domains-list-June-2023 ) listesi Haziran 2023
 Spam girişleri ve botları engellemek için geçici mail Temp Mail domainleri listesi 2023
 
 ---> Tüm githubu sizin için altını üstüne getirdim ve tüm domainleri tek bir büyük listede topladım.
 *tüm linkleri github ve diğer internet kaynaklarından toplanmış ve dublicate (veri tekrarı temizlenmiştir) - Haziran 2023
 
-# Tek Kullanımlık E-posta Etki Alanı Listesi
+# Tek Kullanımlık mail - geçici E-posta domainleri Listesi
 
 Bu depoda, geçici e-posta etki alanlarının bir koleksiyonunu bulacaksınız. Bunları bülten yazılımınıza aktarabilir ve yeni abonelerin hangi adreslerden abone olduğunu filtreleyebilirsiniz.
 
