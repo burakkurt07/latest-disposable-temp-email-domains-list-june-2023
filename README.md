@@ -1,5 +1,6 @@
 Latest List of disposable email domains - june 2023
-# Geçici temp-mail-domainleri- (latest-disposable-temp-email-domains-list-June-2023 ) listesi Haziran 2023
+temp email domains list 2023
+# Geçici temp-mail-domainleri- (latest-disposable-temp-email-domains-list-June-2023, temp email domains list 2023) listesi Haziran 2023
 Spam girişleri ve botları engellemek için geçici mail Temp Mail domainleri listesi 2023
 
 
